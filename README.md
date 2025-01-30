@@ -45,5 +45,6 @@
 
 <br clear="both">
 
+![snake gif](https://github.com/Kushal-Parakh/Kushal-Parakh/blob/output/github-snake-dark.svg)
 
 ###
